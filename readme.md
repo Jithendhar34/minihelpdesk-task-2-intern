@@ -1,10 +1,15 @@
+npm install 
+
+npm start
+
+
 http://localhost:5000/api/tickets
 
 
 http://localhost:5000/api/tickets/<ticketId>
 
 
-post
+//post
 http://localhost:5000/api/tickets
 
 {
@@ -21,8 +26,6 @@ http://localhost:5000/api/tickets/<ticketId>
 {
   "status": "Closed"
 }
-
-
 
 
 
